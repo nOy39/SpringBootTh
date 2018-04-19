@@ -1,0 +1,16 @@
+
+@media {
+    .navbar-nav .open .dropdown-menu {
+        background-color:#fff;
+    }
+}
+
+.nav1
+{
+    /*background-color:#F00; !*whichever you want*!*/
+    opacity: 0.5;
+}
+.opacity-button
+{
+    opacity: 1;
+}
